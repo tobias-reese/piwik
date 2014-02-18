@@ -367,19 +367,25 @@ Ericy:
 
 # Sony Ericsson
 Sony Ericsson:
-  regex: 'Sony(?: )?Ericsson|portalmmm/2\.0 K|(?:LT|SO|ST|SK)[0-9]+[a-z]*[0-9]* Build|MT[0-9]{2}[a-z]? Build'
+  regex: 'Sony(?: )?Ericsson|portalmmm/2\.0 K|(?:LT|MK|SO|ST|SK)[0-9]+[a-z]*[0-9]* Build|MT[0-9]{2}[a-z]? Build|X10i Build'
   device: 'smartphone'
   models:
     - regex: 'SonyEricsson([a-z0-9]+) Build'
       model: '$1'
     - regex: 'Sony(?: )?Ericsson ?([a-z0-9\-]+)'
       model: '$1'
-    - regex: '((?:LT|SO|ST|SK)[0-9]+[a-z]*[0-9]*) Build'
+    - regex: 'MK16i Build'
+      model: 'MK16 (Xperia Pro)'
+    - regex: 'LT15i Build'
+      model: 'LT15i	(Xperia Arc)'
+    - regex: '((?:LT|MK|SO|ST|SK)[0-9]+[a-z]*[0-9]*) Build'
       model: '$1'
     - regex: '(MT[0-9]{2}[a-z]?) Build'
       model: '$1'
     - regex: 'portalmmm/2.0 K([a-z0-9]+)'
       model: 'K$1'
+    - regex: 'X10i Build'
+      model: 'X10i (Xperia X10)'
 
 # Ericsson
 Ericsson:

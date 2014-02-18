@@ -1513,9 +1513,9 @@
     short_name: AN
     version:
   device:
-    type:
-    brand:
-    model:
+    type: smartphone
+    brand: SE
+    model: MK808
   os_family: Android
   browser_family: Android Browser
 - 
@@ -4681,9 +4681,9 @@
     short_name: AN
     version:
   device:
-    type:
-    brand:
-    model:
+    type: smartphone
+    brand: SE
+    model: MK16 (Xperia Pro)
   os_family: Android
   browser_family: Android Browser
 - 
