@@ -763,7 +763,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -1019,7 +1019,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9000
+    model: GT-I9000 (Galaxy S)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -1339,7 +1339,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -2699,7 +2699,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -4731,7 +4731,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -5851,7 +5851,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -7419,7 +7419,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100P
+    model: GT-I9100P (Galaxy S II NFC)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -8395,7 +8395,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100G
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -10379,7 +10379,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9000
+    model: GT-I9000 (Galaxy S)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -11131,7 +11131,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100G
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
@@ -11291,7 +11291,7 @@
   device:
     type: smartphone
     brand: SA
-    model: GT-I9100T
+    model: GT-I9100 (Galaxy S II)
   os_family: Android
   browser_family: Android Browser
 - 
